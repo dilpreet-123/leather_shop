@@ -44,7 +44,7 @@ blockquote {
 
 cite { 
 	font-weight: bold; 
-	color:#d13535; 
+	color: rgba(0, 255, 129, 1);; 
 }
 
 cite a, cite a:link, cite a:visited  { 
